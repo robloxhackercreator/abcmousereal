@@ -1,0 +1,11 @@
+{
+    "name": "blooket-cheat-clone",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "bun run server.ts"
+    },
+    "dependencies": {
+      "bun": "^0.1.0"
+    }
+  }
+  
