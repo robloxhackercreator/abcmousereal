@@ -1,0 +1,48 @@
+🔷 BASE ABILITIES (Always active or low-cost)
+
+Blue Ignition *Basic attacks ignite enemies with searing blue fire, dealing damage over time that stacks with each hit.*
+
+Scorchstep *Every dodge or dash leaves a trail of lingering blue flame that burns and slows enemies.*
+
+Heat Vision *You passively detect enemies through walls by sensing their body heat, even in total darkness.*
+
+Flash Flare *A small burst of blue fire flares around you when blocking or parrying, blinding nearby foes briefly.*
+
+Ignite Touch *Interacting with objects (doors, ropes, weapons) can set them ablaze — perfect for traps or chaos.*
+
+Thermal Wake *Your presence raises the ambient heat, causing weaker enemies to gradually take damage when nearby.*
+
+Blue Bloom *Killing enemies causes them to erupt into a small blue-flame explosion, damaging nearby targets.*
+
+💥 SPECIAL ABILITIES (Cooldown or charged powers)
+
+Azure Nova *You release a powerful circular shockwave of blue fire, knocking enemies back and igniting everything in range.*
+
+Infernal Lance *Launch a piercing spear of concentrated blue fire that burns through targets and obstacles alike.*
+
+Dragon’s Tongue *Spew a controllable, sustained jet of blue fire in a cone. Melts shields. Panics crowds.*
+
+Heatsink *Absorb nearby fire, explosions, or heat-based attacks to heal slightly and reduce cooldowns.*
+
+Flarebind *Chains of blue fire shoot from your hands, latching onto enemies and pulling them toward you while burning them.*
+
+Bluelock Cage *Create a ring of blue fire that traps enemies inside for several seconds, punishing escape attempts with damage.*
+
+Thermal Pulse *Charge up and slam the ground, sending out a ripple of fire that knocks down and burns all enemies in a radius.*
+
+🔥💀 ULTIMATE ABILITIES (High-energy, show-stopping finishers)
+
+Blue Starfall *Summon a massive meteor of blue flame that crashes down, annihilating everything in its blast zone and leaving a firestorm behind.*
+
+Oblivion Wreath *Engulf yourself in a storm of blue fire for 10 seconds, becoming immune to damage and incinerating anything that touches you.*
+
+Azure Eclipse *Extinguish all light in a huge area, then detonate a blinding sphere of blue fire that vaporizes shadows and melts armor.*
+
+Skybrand Hellfire *Call down several sky-scorching pillars of blue fire in sequence, creating a fiery battlefield that persists for 20 seconds.*
+
+Absolute Combustion *Superheat the air around you until it ignites — the entire battlefield turns into a blue inferno, friendly fire be damned.*
+
+Phoenix Ascension *Explode in blue fire on death, reviving yourself with half health and burning all enemies around you with resurrection fire.*
+
+Singularity Flare *Condense all your energy into a tiny core of blue flame — when released, it creates a black hole of fire, drawing in and burning everything caught in its pull.*
+
